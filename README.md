@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @GeorgiosAth
-- 👀 I’m interested in boxing, motorbikes, 
-- 🌱 I’m currently learning ethical hacking, progrmatism
-- 💞️ I’m looking to collaborate on any intresting subject
-- 📫 How to reach me via email:georgios.ath@gmail.com
-- 😄 Pronouns: he/him of course
+# Hi, I'm Georgios 👋
 
+### IT Infrastructure | Systems Administration | Python Development
 
-<!---
-GeorgiosAth/GeorgiosAth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an IT professional with hands-on experience in managing enterprise infrastructure, networking, Linux systems, and IT operations.
+
+I'm also completing my Informatics degree at Ionian University, with a growing focus on software development, backend technologies, and automation.
+
+### 🔧 Areas of Focus
+- **IT Infrastructure:** Linux, networking, VPNs, remote access, and system administration
+- **Software Development:** Python, JavaScript, REST APIs, and Docker
+- **Automation:** Infrastructure automation and workflow optimization
+- **Currently Exploring:** Backend development, DevOps practices, and software architecture
+
+### 📂 Featured Projects
+I'm documenting selected infrastructure implementations and software development projects here on GitHub.
+
+### 📫 Connect
+Feel free to explore my repositories and connect with me for technical discussions or collaboration.
