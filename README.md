@@ -15,11 +15,15 @@ I'm also completing my Informatics degree at Ionian University, with a growing f
 
 ## 📂 Featured Projects
 
-### IT Infrastructure
+### IT Infrastructure & Systems Administration
 
 **[HR Web API HTTPS Deployment](https://github.com/GeorgiosAth/hr-web-api-https-deployment)**
 
-Production infrastructure case study covering Cloudflare DNS, NAT, Windows IIS, Let's Encrypt TLS certificate provisioning, automated renewal, and HTTPS connectivity verification.
+Production infrastructure case study covering Cloudflare DNS, NAT, Windows IIS, Let's Encrypt TLS certificate provisioning, and automated certificate renewal.
+
+**[ERP Email Archiving with Mailcow](https://github.com/GeorgiosAth/mailcow-erp-sent-mail-archiving)**
+
+Server-side selective email archiving using Mailcow, Postfix BCC maps, plus addressing, and Dovecot Sieve filters. Includes configuration examples, troubleshooting, and validation procedures.
 
 ### Software Development
 
