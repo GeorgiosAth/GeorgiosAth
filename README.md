@@ -12,8 +12,18 @@ I'm also completing my Informatics degree at Ionian University, with a growing f
 - **Automation:** Infrastructure automation and workflow optimization
 - **Currently Exploring:** Backend development, DevOps practices, and software architecture
 
-### 📂 Featured Projects
-I'm documenting selected infrastructure implementations and software development projects here on GitHub.
+
+## 📂 Featured Projects
+
+### IT Infrastructure
+
+**[HR Web API HTTPS Deployment](https://github.com/GeorgiosAth/hr-web-api-https-deployment)**
+
+Production infrastructure case study covering Cloudflare DNS, NAT, Windows IIS, Let's Encrypt TLS certificate provisioning, automated renewal, and HTTPS connectivity verification.
+
+### Software Development
+
+Programming projects coming soon.
 
 ### 📫 Connect
 Feel free to explore my repositories and connect with me for technical discussions or collaboration.
