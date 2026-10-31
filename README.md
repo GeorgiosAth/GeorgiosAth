@@ -25,6 +25,11 @@ Production infrastructure case study covering Cloudflare DNS, NAT, Windows IIS, 
 
 Server-side selective email archiving using Mailcow, Postfix BCC maps, plus addressing, and Dovecot Sieve filters. Includes configuration examples, troubleshooting, and validation procedures.
 
+### Tailscale VPN Onboarding Automation
+PowerShell-based automation for onboarding Windows devices into Tailscale VPN, featuring runtime authentication, Windows service management, connection monitoring, and PS2EXE packaging.
+
+[View Project](https://github.com/GeorgiosAth/tailscale-vpn-onboarding-automation)
+
 ### Software Development
 
 Programming projects coming soon.
